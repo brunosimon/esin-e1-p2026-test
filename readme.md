@@ -13,6 +13,6 @@ Some text
 
 ### Todo list
 
-[] Do this
-[] Do that
-[] Do something
+- [ ] Do this
+- [x] Do that
+- [ ] Do something
