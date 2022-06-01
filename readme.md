@@ -1,18 +1,6 @@
 # Big title
 
-## Medium
+## Installation
 
-### Small title
-
-Some text
-
-- list item A
-- list item B
-- list item C
-- list item D
-
-### Todo list
-
-- [ ] Do this
-- [x] Do that
-- [ ] Do something
+- Install Node.js and NPM
+- Run the following command `npm install`
